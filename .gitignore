@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Power BI
+*.pbix
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# Testes e Cobertura
+.pytest_cache/
+htmlcov/
+.coverage
+
+# IDEs / Editores
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
