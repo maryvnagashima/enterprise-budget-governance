@@ -208,7 +208,7 @@ python src/dashboard/app.py
 → ROAS médio de 3.2x em operações reais  
 → Stack: BigQuery · Python · SQL · Power BI · dbt  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marinanagashima-0077B5?logo=linkedin)](https://linkedin.com/in/marinanagashima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marinanagashima-0077B5?logo=linkedin)](https://www.linkedin.com/in/marinanagashina/)
 [![GitHub](https://img.shields.io/badge/GitHub-maryvnagashima-181717?logo=github)](https://github.com/maryvnagashima)
 
 ---
